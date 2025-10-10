@@ -1,7 +1,3 @@
-
-![messagif(1)](https://user-images.githubusercontent.com/53935686/188801772-525a0191-2ae8-4017-85b9-04ce363750d9.gif)
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncaringtomb&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=uncaringtomb&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="48%" />
