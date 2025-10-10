@@ -26,4 +26,4 @@ jobs:
 
           output_action: commit
           committer_branch: generated
-          filename: fun_metrics.svg
+          filename: metrics.svg
